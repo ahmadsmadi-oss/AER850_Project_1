@@ -1,9 +1,3 @@
-# =========================
-#  MACHINE LEARNING PROJECT
-#  Cleaner + clearer version
-#  random_state = 42
-# =========================
-
 # --- Imports ---
 import numpy as np
 import pandas as pd
